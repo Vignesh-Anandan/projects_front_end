@@ -1,0 +1,31 @@
+{
+  "name": "vignesh",
+  "version": "1.0.0",
+  "description": "trailofnpmdeployment",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vignesh-Anandan/projects_front_end.git"
+  },
+  "keywords": [],
+  "author": "Vignesh A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vignesh-Anandan/projects_front_end/issues"
+  },
+  "homepage": "https://github.com/Vignesh-Anandan/projects_front_end#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
