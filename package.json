@@ -4,6 +4,8 @@
   "description": "trailofnpmdeployment",
   "main": "App.js",
   "scripts": {
+    "start":"parcel index.html",
+    "built":"parcel built index.html",
     "test": "jest"
   },
   "repository": {
